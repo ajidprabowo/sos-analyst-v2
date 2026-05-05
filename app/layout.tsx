@@ -6,7 +6,7 @@ import { cn } from "@/lib/utils";
 const geist = Geist({subsets:['latin'],variable:'--font-sans'});
 
 export const metadata: Metadata = {
-  title: 'SOS Analysis AI',
+  title: 'SOS Analysis',
   description: 'AI-powered heavy equipment oil analysis (Scheduled Oil Sampling) with automated maintenance recommendations.',
 };
 

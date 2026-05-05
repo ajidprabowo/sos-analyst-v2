@@ -344,7 +344,7 @@ export default function SOSDashboard() {
                 <Settings2 className="h-6 w-6 text-white" />
               </div>
             </div>
-            <h1 className="text-3xl font-bold tracking-tight text-slate-900">SOS Analysis AI</h1>
+            <h1 className="text-3xl font-bold tracking-tight text-slate-900">SOS Analysis</h1>
             <p className="text-slate-500 text-sm">Heavy equipment oil analysis & maintenance recommendation engine</p>
           </div>
 
@@ -450,7 +450,7 @@ export default function SOSDashboard() {
               <Settings2 className="h-5 w-5 text-white" />
             </div>
             <div>
-              <h1 className="text-xl font-bold text-slate-900">SOS Analysis AI</h1>
+              <h1 className="text-xl font-bold text-slate-900">SOS Analysis</h1>
               <p className="text-xs text-slate-500 font-mono">{currentFileName} — {results.length} samples</p>
             </div>
           </div>
